@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @denshaw-09
+- 👀 I’m interested in Full stack,web dev, cloud and more..
+- 🌱 I’m currently learning Frontend Technologies and cloud
+- 💞️ I’m looking to collaborate on SDE projects
+- 📫 How to reach me : well know you know if you have make it here.
