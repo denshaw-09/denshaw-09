@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denshaw-09
+- 👋 Hi, I’m Shreya
 - 👀 I’m interested in Full stack,web dev, cloud and more..
 - 🌱 I’m currently learning Frontend Technologies and cloud
 - 💞️ I’m looking to collaborate on SDE projects
