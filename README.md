@@ -2,5 +2,4 @@
 - 👀 I’m interested in Full stack development,Cybersecurity, Cloud and more..
 - 🌱 I’m currently learning Frontend Technologies and cloud
 -  I’m looking to collaborate on SDE projects
-- 📫 How to reach me : drop your mail @ mitsushino81@gmail.com
-- or connect me via [linkedin]https://www.linkedin.com/in/shreya-8970-
+- 📫 How to reach me : drop your mail@ mitsushino81@gmail.com
