@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Shreya
-- 👀 I’m interested in Full stack,Cybersecurity, Cloud and more..
+- 👀 I’m interested in Full stack development,Cybersecurity, Cloud and more..
 - 🌱 I’m currently learning Frontend Technologies and cloud
-- 💞️ I’m looking to collaborate on SDE projects
-- 📫 How to reach me : well now you know if you have make it here.
+-  I’m looking to collaborate on SDE projects
+- 📫 How to reach me : drop your mail @ mitsushino81@gmail.com
+- or connect me via [linkedin]https://www.linkedin.com/in/shreya-8970-
