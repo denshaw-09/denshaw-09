@@ -1,79 +1,97 @@
-<!-- HEADER: Minimalistic Wave with Fairy Aesthetic -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D220%26section%3Dheader%26text%3DShreya%26fontSize%3D80%26animation%3DfadeIn%26fontAlign%3D50%26desc%3DEngineering%2520the%2520Future%26descAlign%3D50%26descSize%3D20" width="100%"/>
-</div>
 
-<!-- TYPING EFFECT: About Me -->
+<!-- HERO: THIS IS FINE GIF (GIPHY SOURCE) -->
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="100%" style="border-radius: 10px;" alt="This is fine" />
 
-<div align="center">
+<br/><br/>
+
+<!-- TYPING HEADER -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D22%26pause%3D1000%26color%3D9E4C98%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DDrone%2BProgrammer%3BWeb3%2BDeveloper%3BBuilding%2BAutonomous%2BSystems%3BAI%2BEnthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Vt323&color=FF4500&size=28&center=true&vCenter=true&width=600&height=50&lines=WARNING:+PRODUCTION+IS+DOWN;STATUS:+DEPLOYING+ON+FRIDAY;ROLE:+JUNIOR+CHAOS+ENGINEER;OBJECTIVE:+SURVIVE;" alt="Typing SVG" />
 </a>
-</div>
 
-<!-- FLOATING FAIRY GIF -->
-
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxeXlzMmZ5Y3RxeXlzMmZ5Y3RxeXlzMmZ5Y3RxeXlzMmZ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13CoXDiaCcCoyk/giphy.gif" width="50" />
-</div>
-
-<!-- TECH STACK: Minimalistic Icons -->
-
-<h3 align="center">🔮 Enchanted Tech Stack</h3>
-<div align="center">
-<!-- Languages -->
-<img src="https://skillicons.dev/icons%3Fi%3Dpython,cpp,js,solidity" height="40" alt="languages" />
-<!-- AI & Hardware -->
-<img src="https://skillicons.dev/icons%3Fi%3Dopencv,ros,raspberrypi,pytorch,tensorflow" height="40" alt="hardware-ai" />
-<!-- Web & Tools -->
-<img src="https://skillicons.dev/icons%3Fi%3Dreact,nodejs,docker,git,linux" height="40" alt="web-tools" />
-</div>
-
-<!-- PROJECTS: Creative Cards -->
-
-<h3 align="center">⚒️ Artifacts & Inventions</h3>
-<table align="center" border="0">
-<tr>
-<td align="center" width="50%">
-<h3>🚁 Drone Agri-Tech</h3>
-<p><b>Autonomous Flight & Plant Health AI</b></p>
-<p>A precision agriculture system using OpenCV for infected plant detection and ROS for waypoint navigation.</p>
-<img src="https://img.shields.io/badge/Tech-ROS%2520%257C%2520OpenCV%2520%257C%2520Python-blue%3Fstyle%3Dflat-square" />
-
-
-<a href="#">View Code</a>
-</td>
-<td align="center" width="50%">
-<h3>🤖 Lexi Agent</h3>
-<p><b>Web3 AI Content Aggregator</b></p>
-<p>An intelligent agent that scrapes, summarizes, and delivers Web3 ecosystem news using LLMs.</p>
-<img src="https://img.shields.io/badge/Tech-Solidity%2520%257C%2520LLMs%2520%257C%2520React-purple%3Fstyle%3Dflat-square" />
-
-
-<a href="#">View Code</a>
-</td>
-</tr>
-</table>
-
-<!-- 3D CONTRIBUTION CITY -->
-
-<h3 align="center">🏰 My Code Kingdom</h3>
-<p align="center">
-<!-- IMPORTANT: REPLACE 'denshaw-09' BELOW WITH YOUR ACTUAL USERNAME -->
-<img src="https://github.com/denshaw-09/denshaw-09/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+<!-- SOCIAL BADGES -->
+<p>
+  <a href="https://github.com/denshaw-09">
+    <img src="https://img.shields.io/badge/INCIDENT_REPORT-denshaw--09-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mitsushino81@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_HELP-mitsushino81%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<!-- STATS: Minimal Layout -->
+<!-- VISITOR COUNT -->
+<img src="https://komarev.com/ghpvc/?username=denshaw-09&style=flat-square&color=ff4500&label=CASUALTIES+(VIEWS)" alt="Profile Views" />
 
-<h3 align="center">📜 Sorcerer's Stats</h3>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Ddenshaw-09%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddenshaw-09%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" height="150" alt="languages graph" />
 </div>
 
-<!-- FOOTER -->
+<br/>
+
+<!-- SECTION: ABOUT ME -->
+<img src="https://img.shields.io/badge/INCIDENT_REPORT_(ABOUT_ME)-FF4500?style=for-the-badge&logo=fire&logoColor=white" />
+
+> **Alert:** *"I don't always test my code, but when I do, I do it in production."*
+
+I am a **Full Stack Developer** who thrives in chaos. My specialty is building robust systems that (usually) don't catch fire.
+
+<img src="https://img.shields.io/badge/CURRENT_HAZARD-FF0000?style=flat-square&logo=danger&logoColor=white" /> **Breaking monolithic architectures into microservices.**  
+<img src="https://img.shields.io/badge/DAMAGE_CONTROL-FFA500?style=flat-square&logo=security&logoColor=white" /> **Learning Cloud Security to fix what I break.**  
+<img src="https://img.shields.io/badge/FUN_FACT-000000?style=flat-square&logo=coffee&logoColor=white" /> **I once deleted a database, and I'll do it again.**
+
+<br/>
+
+<!-- SECTION: TECH STACK -->
+<img src="https://img.shields.io/badge/FIREFIGHTING_TOOLS_(TECH)-FF4500?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+
+| **Category** | **Arsenal** |
+| :--- | :--- |
+| **The Fuel** | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **The Spark** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **The Explosion** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) |
+| **Extinguishers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
+
+<br/>
+
+<!-- SECTION: PROJECTS -->
+<img src="https://img.shields.io/badge/DISASTER_LOGS_(PROJECTS)-FF4500?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+| **Project** | **Status** | **Tech Used** |
+| :--- | :--- | :--- |
+| **AlgoFi** | ![Stable](https://img.shields.io/badge/STABLE-success?style=flat-square) | `JS` `React` |
+| **DENAI** | ![Warning](https://img.shields.io/badge/WARNING-yellow?style=flat-square) | `Python` `AI` |
+| **hackVerse** | ![Critical](https://img.shields.io/badge/CRITICAL-critical?style=flat-square) | `TypeScript` |
+| **poketonn** | ![On Fire](https://img.shields.io/badge/ON_FIRE-FF4500?style=flat-square) | `JavaScript` |
+| **Lexi** | ![Recovered](https://img.shields.io/badge/RECOVERED-blue?style=flat-square) | `Python` `NLP` |
+
+<br/>
+
+<!-- SECTION: STATS -->
+<img src="https://img.shields.io/badge/SYSTEM_VITALS-FF4500?style=for-the-badge&logo=activity&logoColor=white" />
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter"/>
+  <!-- STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denshaw-09&theme=highcontrast&hide_border=true&fire=FF4500&ring=FF4500&currStreakLabel=FF4500" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <!-- ACTIVITY GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denshaw-09&theme=react-dark&bg_color=0D1117&hide_border=true&color=FF4500&line=FF4500&point=FFFFFF" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- SECTION: 3D CITY -->
+<img src="https://img.shields.io/badge/THE_REBUILD_(CONTRIBUTIONS)-FF4500?style=for-the-badge&logo=minecraft&logoColor=white" />
+
+<div align="center">
+  <!-- Make sure the workflow has run for this image to appear -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="60" />
+  <br/>
+  <i>"It works on my machine."</i>
 </div>
